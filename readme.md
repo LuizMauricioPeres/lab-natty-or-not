@@ -5,6 +5,7 @@ Este projeto demonstra o uso de prompts para a criação de imagens geradas por IA
 ## Objetivo
 O objetivo foi gerar retratos de um personagem fictício chamado "Senhor Barruga" utilizando descrições detalhadas fornecidas no prompt. Essa abordagem permite explorar o uso de IA para representar visualmente conceitos criados apenas com palavras.
 
+
 ## Etapas do Processo
 
 1. **Definição do personagem:**
