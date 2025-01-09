@@ -21,7 +21,7 @@ O objetivo foi gerar retratos de um personagem fictício chamado "Senhor Barruga"
      Retrato de um homem chamado Senhor Barruga, aparentando 50 anos, com 45 anos de idade, 1,75 m de altura e pesando 100 quilos. Ele tem pele de cor parda, traços que combinam características espanholas e malaias, com expressão amigável e um leve sorriso. Ele está vestindo uma camisa casual, em um cenário neutro com iluminação suave que destaca sua fisionomia única. Foco nos detalhes do rosto e nas expressões faciais.
      ```
    - Imagem gerada:
-     ![Senhor Barruga - 50 anos](assets/barruga50.webp)
+     ![Senhor Barruga - 50 anos](assets/barruga50.jpg)
 
 3. **Atualização e refinamento:**
    - Um ajuste foi solicitado para modificar a aparência do personagem, como a barba feita há três dias e uma idade aparente mais próxima de 48 anos.
@@ -30,7 +30,7 @@ O objetivo foi gerar retratos de um personagem fictício chamado "Senhor Barruga"
      Retrato de um homem chamado Senhor Barruga, aparentando 48 anos, com 45 anos de idade, 1,75 m de altura e pesando 100 quilos. Ele tem pele de cor parda, traços que combinam características espanholas e malaias, com barba feita há 3 dias, resultando em um leve crescimento de pelos faciais. Ele possui uma expressão amigável e serena, usando uma camisa casual. O cenário é neutro, com iluminação suave que destaca sua fisionomia única e os detalhes faciais.
      ```
    - Imagem gerada:
-     ![Senhor Barruga - 48 anos](assets/barruga48.webp)
+     ![Senhor Barruga - 48 anos](assets/barruga48.jpg)
 
 4. **Geração final:**
    - O retrato foi gerado com os ajustes solicitados e apresentado para validação.
